@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCF", "WCF", "{9B6E2B49-CE71-4E39-9690-F5531DF259F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeToWCF", "WCF\WelcomeToWCF\WelcomeToWCF.csproj", "{8C1FA1AF-260E-443A-9AFC-E6536F7D64B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1FA1AF-260E-443A-9AFC-E6536F7D64B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1FA1AF-260E-443A-9AFC-E6536F7D64B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1FA1AF-260E-443A-9AFC-E6536F7D64B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1FA1AF-260E-443A-9AFC-E6536F7D64B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8C1FA1AF-260E-443A-9AFC-E6536F7D64B4} = {9B6E2B49-CE71-4E39-9690-F5531DF259F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D367435-5D91-42DD-BDCB-451686F935E3}
+	EndGlobalSection
+EndGlobal
