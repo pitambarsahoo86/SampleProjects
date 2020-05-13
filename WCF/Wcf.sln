@@ -5,9 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCF", "WCF", "{9B6E2B49-CE71-4E39-9690-F5531DF259F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeToWCF", "WCF\WelcomeToWCF\WelcomeToWCF.csproj", "{8C1FA1AF-260E-443A-9AFC-E6536F7D64B4}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCP", "WCP", "{1725DAEA-5E4C-4188-80CB-978CB42009F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeToWCF", "WelcomeToWCF\WelcomeToWCF.csproj", "{8C1FA1AF-260E-443A-9AFC-E6536F7D64B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
